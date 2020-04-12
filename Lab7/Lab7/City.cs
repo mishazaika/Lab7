@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Collections;
+/*
+ * Заіка Міхаіл, ІПЗ-14
+ * Варіант №8
+ */
 namespace Lab7
 {
     class City:IComparable,IEnumerable
